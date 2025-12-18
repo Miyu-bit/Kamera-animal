@@ -1,0 +1,5 @@
+body { font-family: Arial; background: #222; color: #fff; text-align: center; }
+video { border: 2px solid #0f0; border-radius: 10px; }
+button { background: #0f0; color: #000; padding: 10px; border: none; cursor: pointer; }
+#result { margin-top: 20px; font-size: 1.2em; animation: fadeIn 1s; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
